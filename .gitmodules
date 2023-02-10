@@ -1,0 +1,3 @@
+[submodule "react-rtk-crud"]
+	path = react-rtk-crud
+	url = https://github.com/GerardoIsaac/redux-crud.git
